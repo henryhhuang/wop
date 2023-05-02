@@ -1,0 +1,19 @@
+/* .root {
+    display: flex;
+    overflowX: hide;
+    
+    
+
+} */
+
+.table {
+    /* min-width: 100; */
+}
+
+.tableCell {
+    width: 100%;
+    min-width: 100px;
+    overflow: auto;
+    padding-right: 4;
+    padding-left: 5;
+}

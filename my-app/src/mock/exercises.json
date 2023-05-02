@@ -1,0 +1,30 @@
+[
+    {
+        "name": "barbell bench press",
+        "group": "CHEST"
+    },
+    {
+        "name": "incline bench press machine",
+        "group": "CHEST"
+    },
+    {
+        "name": "machine chest fly",
+        "group": "CHEST"
+    },
+    {
+        "name": "dips",
+        "group": "CHEST"
+    },
+    {
+        "name": "cable chest flys",
+        "group": "CHEST"
+    },
+    {
+        "name": "dumbbell bench press",
+        "group": "CHEST"
+    },
+    {
+        "name": "incline dumbbell bench press",
+        "group": "CHEST"
+    }
+]
